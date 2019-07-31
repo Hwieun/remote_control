@@ -1,0 +1,6 @@
+﻿  example_client.cpp
+c:\users\key\documents\visual studio 2017\projects\example1\example_client\example_client.cpp(42): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\key\documents\visual studio 2017\projects\example1\example_client\example_client.cpp(42): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\key\documents\visual studio 2017\projects\example1\example_client\example_client.cpp(42): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+  c:\users\key\documents\visual studio 2017\projects\example1\example_client\example_client.cpp(42): note: 이 인수는 버퍼 크기로 사용됩니다.
+  example_client.vcxproj -> C:\Users\KEY\Documents\Visual Studio 2017\Projects\example1\Debug\example_client.exe
