@@ -1,0 +1,9 @@
+﻿  example1.cpp
+c:\users\key\documents\visual studio 2017\projects\example1\example1.cpp(87): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\key\documents\visual studio 2017\projects\example1\example1.cpp(83): warning C4477: 'printf' : 서식 문자열 '%c'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+c:\users\key\documents\visual studio 2017\projects\example1\example1.cpp(83): warning C4313: 'printf': 서식 문자열의 '%c'이(가) 인수 1('char *' 형식)과(와) 충돌합니다.
+c:\users\key\documents\visual studio 2017\projects\example1\example1.cpp(86): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\key\documents\visual studio 2017\projects\example1\example1.cpp(86): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\key\documents\visual studio 2017\projects\example1\example1.cpp(86): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+  c:\users\key\documents\visual studio 2017\projects\example1\example1.cpp(86): note: 이 인수는 버퍼 크기로 사용됩니다.
+  example1.vcxproj -> C:\Users\KEY\Documents\Visual Studio 2017\Projects\example1\x64\Debug\example1.exe
